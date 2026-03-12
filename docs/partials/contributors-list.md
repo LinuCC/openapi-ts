@@ -106,6 +106,7 @@
 - [fml09](https://github.com/fml09)
 - [henry-encord](https://github.com/henry-encord)
 - [hunshcn](https://github.com/hunshcn)
+- [jcx0](https://github.com/jcx0)
 - [maxdew-envelio](https://github.com/maxdew-envelio)
 - [nnzhadow](https://github.com/nnzhadow)
 - [renoschubert](https://github.com/renoschubert)
@@ -126,4 +127,3 @@
 - [renovate[bot]](https://github.com/renovate[bot])
 - [renovate[bot]](https://github.com/renovate[bot])
 - [renovate[bot]](https://github.com/renovate[bot])
-- [robotone](https://github.com/robotone)
