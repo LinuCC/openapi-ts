@@ -159,5 +159,4 @@
 - [renovate[bot]](https://github.com/renovate[bot])
 - [renovate[bot]](https://github.com/renovate[bot])
 - [renovate[bot]](https://github.com/renovate[bot])
-- [renovate[bot]](https://github.com/renovate[bot])
 - [tpuric](https://github.com/tpuric)
